@@ -1,1 +1,0 @@
-salmon quant -t ../REF/genome.fa -l A -a ../bispecific/BAM/D1killers.bam -o ../salmon_test/salmon_quantD1_killer
